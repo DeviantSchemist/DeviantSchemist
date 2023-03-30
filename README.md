@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+Welcome to my profile! I am a Full Stack Developer specializing in Front End Development. My passions include CSS, Semantic HTML, Website Accessibility, and development frameworks such as Next.JS and React.JS, just to name a few.
+
+I went to a coding bootcamp at the University of California, Irvine where I learned Full Stack Web Development and collaborated on various web applications.
 
 <!--
 **DeviantSchemist/DeviantSchemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
